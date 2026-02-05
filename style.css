@@ -56,3 +56,24 @@ ul {
     color: rgb(173, 216, 230);
     font-size: 15px;
 }
+.titlep {
+    color: rgb(150, 223, 236);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.title {
+    color: rgb(150, 223, 236);
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+}
+.heading1 {
+    color: rgb(99, 180, 238);
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
