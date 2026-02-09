@@ -5,49 +5,8 @@ body {
     margin: 0;
     padding: 0;
 }
-
-header {
-    background: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav {
-    margin: 20px 0;
-}
-
-nav a {
-    color: #333;
-    text-decoration: none;
-    padding: 5px 10px;
-}
-
-nav a:hover {
-    background: #ddd;
-}
-
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
-
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
 p {
     color:#62c2e8
-}
-h1 {
-    color: rgb(150, 223, 236);
-    text-align: center;
 }
 h3 {
     color: rgb(99, 180, 238);
@@ -76,4 +35,16 @@ ul {
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: italic;
+}
+.cc {
+    color: rgb(105, 120, 124);
+    text-align: left;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.icon {
+    display: block;
+    width: 100px;
+
 }
